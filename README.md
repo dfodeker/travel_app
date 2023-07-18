@@ -1,7 +1,6 @@
 # travel_app
 
-A new Flutter project.
-
+A flutter project to pick travel  destinations 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
